@@ -13,3 +13,5 @@ Naprasnye slova ya vydohnu ustalo
 
 Uzhe pogas ochag, ya novyj ne zazhgla.
 Naprasnye slova, vin'etka lozhnoj suti
+
+check up gui & gitk&
