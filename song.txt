@@ -32,6 +32,12 @@ Gde smyataya tpava i zapax vasil`kov.
 Rassy`panny`m dpazhe zakatyatsya v stolet`ya
 Happasny`e slova, nappasnaya lyubov`…
 
+<<<<<<< HEAD
 
 bearsuperbear
+-------------------------------------------------------------------------
 
+=======
+Uzhe pogas ochag, ya novyj ne zazhgla.
+Naprasnye slova, vin'etka lozhnoj suti
+>>>>>>> parent of ea53086 (lines for check added with changed readme file)
